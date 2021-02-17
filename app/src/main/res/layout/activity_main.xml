@@ -18,7 +18,7 @@
         android:layout_width="280dp"
         android:layout_height="match_parent"
         android:layout_gravity="start"
-        android:background="#FF0033"
+        android:background="@color/teal_200"
         android:divider="@android:color/transparent"
         android:dividerHeight="0dp" />
 
